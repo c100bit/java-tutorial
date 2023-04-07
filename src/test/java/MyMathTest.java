@@ -1,4 +1,4 @@
-import org.example.testing.MyMath;
+import org.example.part2.testing.MyMath;
 import org.junit.Test;
 
 public class MyMathTest {

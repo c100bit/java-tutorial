@@ -1,4 +1,4 @@
-import org.example.testing.Vector2D;
+import org.example.part2.testing.Vector2D;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
